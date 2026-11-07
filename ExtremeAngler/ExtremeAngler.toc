@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Extreme Angler
+## Notes: One key fishing with Smart Cast: the same key equips your pole, applies lures, casts and catches. Catch stats, bite timer, notifications.
+## Author: Silver Dyne (EU-PVE)
+## Version: 1.0.0
+## IconTexture: Interface\Icons\Trade_Fishing
+## X-License: MIT
+## SavedVariables: ExtremeAnglerDB
+
+Core.lua
+Gear.lua
+Stats.lua
+UI.lua
+Toast.lua
+Options.lua

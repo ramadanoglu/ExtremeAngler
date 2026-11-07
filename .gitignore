@@ -1,0 +1,12 @@
+# Release zips are attached to GitHub Releases / uploaded to CurseForge, not committed
+dist/
+
+# Node tooling for the syntax check
+.tools/node_modules/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

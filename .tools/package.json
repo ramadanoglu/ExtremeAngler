@@ -1,0 +1,8 @@
+{
+  "name": "extreme-angler-tools",
+  "private": true,
+  "description": "Build tooling for Extreme Angler (Lua syntax check)",
+  "dependencies": {
+    "luaparse": "^0.3.1"
+  }
+}
